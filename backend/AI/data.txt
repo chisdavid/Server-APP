@@ -1,0 +1,864 @@
+> noEpochs=50, bestEpochNumber=8 learningRate=0.100000, noNeuronsPerLayer=4 noHiddenLayers=0 
+LOSS=6.011598 
+
+> noEpochs=100, bestEpochNumber=8 learningRate=0.100000, noNeuronsPerLayer=4 noHiddenLayers=0 
+LOSS=6.011598 
+
+> noEpochs=150, bestEpochNumber=8 learningRate=0.100000, noNeuronsPerLayer=4 noHiddenLayers=0 
+LOSS=6.011598 
+
+> noEpochs=200, bestEpochNumber=8 learningRate=0.100000, noNeuronsPerLayer=4 noHiddenLayers=0 
+LOSS=6.011598 
+
+> noEpochs=50, bestEpochNumber=8 learningRate=0.050000, noNeuronsPerLayer=4 noHiddenLayers=0 
+LOSS=5.390094 
+
+> noEpochs=100, bestEpochNumber=8 learningRate=0.050000, noNeuronsPerLayer=4 noHiddenLayers=0 
+LOSS=5.390094 
+
+> noEpochs=150, bestEpochNumber=8 learningRate=0.050000, noNeuronsPerLayer=4 noHiddenLayers=0 
+LOSS=5.390094 
+
+> noEpochs=200, bestEpochNumber=8 learningRate=0.050000, noNeuronsPerLayer=4 noHiddenLayers=0 
+LOSS=5.390094 
+
+> noEpochs=50, bestEpochNumber=23 learningRate=0.010000, noNeuronsPerLayer=4 noHiddenLayers=0 
+LOSS=3.709079 
+
+> noEpochs=100, bestEpochNumber=23 learningRate=0.010000, noNeuronsPerLayer=4 noHiddenLayers=0 
+LOSS=3.709079 
+
+> noEpochs=150, bestEpochNumber=23 learningRate=0.010000, noNeuronsPerLayer=4 noHiddenLayers=0 
+LOSS=3.709079 
+
+> noEpochs=200, bestEpochNumber=23 learningRate=0.010000, noNeuronsPerLayer=4 noHiddenLayers=0 
+LOSS=3.709079 
+
+> noEpochs=50, bestEpochNumber=34 learningRate=0.005000, noNeuronsPerLayer=4 noHiddenLayers=0 
+LOSS=3.219974 
+
+> noEpochs=100, bestEpochNumber=34 learningRate=0.005000, noNeuronsPerLayer=4 noHiddenLayers=0 
+LOSS=3.219974 
+
+> noEpochs=150, bestEpochNumber=34 learningRate=0.005000, noNeuronsPerLayer=4 noHiddenLayers=0 
+LOSS=3.219974 
+
+> noEpochs=200, bestEpochNumber=34 learningRate=0.005000, noNeuronsPerLayer=4 noHiddenLayers=0 
+LOSS=3.219974 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.001000, noNeuronsPerLayer=4 noHiddenLayers=0 
+LOSS=0.387106 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.001000, noNeuronsPerLayer=4 noHiddenLayers=0 
+LOSS=0.387106 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.001000, noNeuronsPerLayer=4 noHiddenLayers=0 
+LOSS=0.387106 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.001000, noNeuronsPerLayer=4 noHiddenLayers=0 
+LOSS=0.387106 
+
+> noEpochs=50, bestEpochNumber=6 learningRate=0.000100, noNeuronsPerLayer=4 noHiddenLayers=0 
+LOSS=0.891199 
+
+> noEpochs=100, bestEpochNumber=6 learningRate=0.000100, noNeuronsPerLayer=4 noHiddenLayers=0 
+LOSS=0.891199 
+
+> noEpochs=150, bestEpochNumber=6 learningRate=0.000100, noNeuronsPerLayer=4 noHiddenLayers=0 
+LOSS=0.891199 
+
+> noEpochs=200, bestEpochNumber=6 learningRate=0.000100, noNeuronsPerLayer=4 noHiddenLayers=0 
+LOSS=0.891199 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=4 noHiddenLayers=1 
+LOSS=16.531557 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=4 noHiddenLayers=1 
+LOSS=16.531557 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=4 noHiddenLayers=1 
+LOSS=16.531557 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=4 noHiddenLayers=1 
+LOSS=16.531557 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.050000, noNeuronsPerLayer=4 noHiddenLayers=1 
+LOSS=15.214394 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.050000, noNeuronsPerLayer=4 noHiddenLayers=1 
+LOSS=15.214394 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.050000, noNeuronsPerLayer=4 noHiddenLayers=1 
+LOSS=15.214394 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.050000, noNeuronsPerLayer=4 noHiddenLayers=1 
+LOSS=15.214394 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.010000, noNeuronsPerLayer=4 noHiddenLayers=1 
+LOSS=10.023384 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.010000, noNeuronsPerLayer=4 noHiddenLayers=1 
+LOSS=10.023384 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.010000, noNeuronsPerLayer=4 noHiddenLayers=1 
+LOSS=10.023384 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.010000, noNeuronsPerLayer=4 noHiddenLayers=1 
+LOSS=10.023384 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.005000, noNeuronsPerLayer=4 noHiddenLayers=1 
+LOSS=6.064645 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.005000, noNeuronsPerLayer=4 noHiddenLayers=1 
+LOSS=6.064645 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.005000, noNeuronsPerLayer=4 noHiddenLayers=1 
+LOSS=6.064645 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.005000, noNeuronsPerLayer=4 noHiddenLayers=1 
+LOSS=6.064645 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.001000, noNeuronsPerLayer=4 noHiddenLayers=1 
+LOSS=0.419991 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.001000, noNeuronsPerLayer=4 noHiddenLayers=1 
+LOSS=0.419991 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.001000, noNeuronsPerLayer=4 noHiddenLayers=1 
+LOSS=0.419991 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.001000, noNeuronsPerLayer=4 noHiddenLayers=1 
+LOSS=0.419991 
+
+> noEpochs=50, bestEpochNumber=9 learningRate=0.000100, noNeuronsPerLayer=4 noHiddenLayers=1 
+LOSS=0.891946 
+
+> noEpochs=100, bestEpochNumber=9 learningRate=0.000100, noNeuronsPerLayer=4 noHiddenLayers=1 
+LOSS=0.891946 
+
+> noEpochs=150, bestEpochNumber=9 learningRate=0.000100, noNeuronsPerLayer=4 noHiddenLayers=1 
+LOSS=0.891946 
+
+> noEpochs=200, bestEpochNumber=9 learningRate=0.000100, noNeuronsPerLayer=4 noHiddenLayers=1 
+LOSS=0.891946 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=4 noHiddenLayers=2 
+LOSS=16.509561 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=4 noHiddenLayers=2 
+LOSS=16.509561 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=4 noHiddenLayers=2 
+LOSS=16.509561 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=4 noHiddenLayers=2 
+LOSS=16.509561 
+
+> noEpochs=50, bestEpochNumber=2 learningRate=0.050000, noNeuronsPerLayer=4 noHiddenLayers=2 
+LOSS=15.248216 
+
+> noEpochs=100, bestEpochNumber=2 learningRate=0.050000, noNeuronsPerLayer=4 noHiddenLayers=2 
+LOSS=15.248216 
+
+> noEpochs=150, bestEpochNumber=2 learningRate=0.050000, noNeuronsPerLayer=4 noHiddenLayers=2 
+LOSS=15.248216 
+
+> noEpochs=200, bestEpochNumber=2 learningRate=0.050000, noNeuronsPerLayer=4 noHiddenLayers=2 
+LOSS=15.248216 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.010000, noNeuronsPerLayer=4 noHiddenLayers=2 
+LOSS=9.999527 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.010000, noNeuronsPerLayer=4 noHiddenLayers=2 
+LOSS=9.999527 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.010000, noNeuronsPerLayer=4 noHiddenLayers=2 
+LOSS=9.999527 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.010000, noNeuronsPerLayer=4 noHiddenLayers=2 
+LOSS=9.999527 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.005000, noNeuronsPerLayer=4 noHiddenLayers=2 
+LOSS=6.919976 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.005000, noNeuronsPerLayer=4 noHiddenLayers=2 
+LOSS=6.919976 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.005000, noNeuronsPerLayer=4 noHiddenLayers=2 
+LOSS=6.919976 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.005000, noNeuronsPerLayer=4 noHiddenLayers=2 
+LOSS=6.919976 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.001000, noNeuronsPerLayer=4 noHiddenLayers=2 
+LOSS=0.388987 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.001000, noNeuronsPerLayer=4 noHiddenLayers=2 
+LOSS=0.388987 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.001000, noNeuronsPerLayer=4 noHiddenLayers=2 
+LOSS=0.388987 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.001000, noNeuronsPerLayer=4 noHiddenLayers=2 
+LOSS=0.388987 
+
+> noEpochs=50, bestEpochNumber=8 learningRate=0.000100, noNeuronsPerLayer=4 noHiddenLayers=2 
+LOSS=0.949643 
+
+> noEpochs=100, bestEpochNumber=8 learningRate=0.000100, noNeuronsPerLayer=4 noHiddenLayers=2 
+LOSS=0.949643 
+
+> noEpochs=150, bestEpochNumber=8 learningRate=0.000100, noNeuronsPerLayer=4 noHiddenLayers=2 
+LOSS=0.949643 
+
+> noEpochs=200, bestEpochNumber=8 learningRate=0.000100, noNeuronsPerLayer=4 noHiddenLayers=2 
+LOSS=0.949643 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=4 noHiddenLayers=3 
+LOSS=16.596204 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=4 noHiddenLayers=3 
+LOSS=16.596204 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=4 noHiddenLayers=3 
+LOSS=16.596204 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=4 noHiddenLayers=3 
+LOSS=16.596204 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.050000, noNeuronsPerLayer=4 noHiddenLayers=3 
+LOSS=15.338151 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.050000, noNeuronsPerLayer=4 noHiddenLayers=3 
+LOSS=15.338151 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.050000, noNeuronsPerLayer=4 noHiddenLayers=3 
+LOSS=15.338151 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.050000, noNeuronsPerLayer=4 noHiddenLayers=3 
+LOSS=15.338151 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.010000, noNeuronsPerLayer=4 noHiddenLayers=3 
+LOSS=10.048146 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.010000, noNeuronsPerLayer=4 noHiddenLayers=3 
+LOSS=10.048146 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.010000, noNeuronsPerLayer=4 noHiddenLayers=3 
+LOSS=10.048146 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.010000, noNeuronsPerLayer=4 noHiddenLayers=3 
+LOSS=10.048146 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.005000, noNeuronsPerLayer=4 noHiddenLayers=3 
+LOSS=7.106788 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.005000, noNeuronsPerLayer=4 noHiddenLayers=3 
+LOSS=7.106788 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.005000, noNeuronsPerLayer=4 noHiddenLayers=3 
+LOSS=7.106788 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.005000, noNeuronsPerLayer=4 noHiddenLayers=3 
+LOSS=7.106788 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.001000, noNeuronsPerLayer=4 noHiddenLayers=3 
+LOSS=0.384763 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.001000, noNeuronsPerLayer=4 noHiddenLayers=3 
+LOSS=0.384763 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.001000, noNeuronsPerLayer=4 noHiddenLayers=3 
+LOSS=0.384763 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.001000, noNeuronsPerLayer=4 noHiddenLayers=3 
+LOSS=0.384763 
+
+> noEpochs=50, bestEpochNumber=6 learningRate=0.000100, noNeuronsPerLayer=4 noHiddenLayers=3 
+LOSS=0.949834 
+
+> noEpochs=100, bestEpochNumber=6 learningRate=0.000100, noNeuronsPerLayer=4 noHiddenLayers=3 
+LOSS=0.949834 
+
+> noEpochs=150, bestEpochNumber=6 learningRate=0.000100, noNeuronsPerLayer=4 noHiddenLayers=3 
+LOSS=0.949834 
+
+> noEpochs=200, bestEpochNumber=6 learningRate=0.000100, noNeuronsPerLayer=4 noHiddenLayers=3 
+LOSS=0.949834 
+
+> noEpochs=50, bestEpochNumber=6 learningRate=0.100000, noNeuronsPerLayer=8 noHiddenLayers=0 
+LOSS=7.391769 
+
+> noEpochs=100, bestEpochNumber=6 learningRate=0.100000, noNeuronsPerLayer=8 noHiddenLayers=0 
+LOSS=7.391769 
+
+> noEpochs=150, bestEpochNumber=6 learningRate=0.100000, noNeuronsPerLayer=8 noHiddenLayers=0 
+LOSS=7.391769 
+
+> noEpochs=200, bestEpochNumber=6 learningRate=0.100000, noNeuronsPerLayer=8 noHiddenLayers=0 
+LOSS=7.391769 
+
+> noEpochs=50, bestEpochNumber=9 learningRate=0.050000, noNeuronsPerLayer=8 noHiddenLayers=0 
+LOSS=5.228772 
+
+> noEpochs=100, bestEpochNumber=9 learningRate=0.050000, noNeuronsPerLayer=8 noHiddenLayers=0 
+LOSS=5.228772 
+
+> noEpochs=150, bestEpochNumber=9 learningRate=0.050000, noNeuronsPerLayer=8 noHiddenLayers=0 
+LOSS=5.228772 
+
+> noEpochs=200, bestEpochNumber=9 learningRate=0.050000, noNeuronsPerLayer=8 noHiddenLayers=0 
+LOSS=5.228772 
+
+> noEpochs=50, bestEpochNumber=18 learningRate=0.010000, noNeuronsPerLayer=8 noHiddenLayers=0 
+LOSS=4.064218 
+
+> noEpochs=100, bestEpochNumber=18 learningRate=0.010000, noNeuronsPerLayer=8 noHiddenLayers=0 
+LOSS=4.064218 
+
+> noEpochs=150, bestEpochNumber=18 learningRate=0.010000, noNeuronsPerLayer=8 noHiddenLayers=0 
+LOSS=4.064218 
+
+> noEpochs=200, bestEpochNumber=18 learningRate=0.010000, noNeuronsPerLayer=8 noHiddenLayers=0 
+LOSS=4.064218 
+
+> noEpochs=50, bestEpochNumber=37 learningRate=0.005000, noNeuronsPerLayer=8 noHiddenLayers=0 
+LOSS=3.433787 
+
+> noEpochs=100, bestEpochNumber=37 learningRate=0.005000, noNeuronsPerLayer=8 noHiddenLayers=0 
+LOSS=3.433787 
+
+> noEpochs=150, bestEpochNumber=37 learningRate=0.005000, noNeuronsPerLayer=8 noHiddenLayers=0 
+LOSS=3.433787 
+
+> noEpochs=200, bestEpochNumber=37 learningRate=0.005000, noNeuronsPerLayer=8 noHiddenLayers=0 
+LOSS=3.433787 
+
+> noEpochs=50, bestEpochNumber=4 learningRate=0.001000, noNeuronsPerLayer=8 noHiddenLayers=0 
+LOSS=1.096263 
+
+> noEpochs=100, bestEpochNumber=4 learningRate=0.001000, noNeuronsPerLayer=8 noHiddenLayers=0 
+LOSS=1.096263 
+
+> noEpochs=150, bestEpochNumber=4 learningRate=0.001000, noNeuronsPerLayer=8 noHiddenLayers=0 
+LOSS=1.096263 
+
+> noEpochs=200, bestEpochNumber=4 learningRate=0.001000, noNeuronsPerLayer=8 noHiddenLayers=0 
+LOSS=1.096263 
+
+> noEpochs=50, bestEpochNumber=12 learningRate=0.000100, noNeuronsPerLayer=8 noHiddenLayers=0 
+LOSS=0.727766 
+
+> noEpochs=100, bestEpochNumber=12 learningRate=0.000100, noNeuronsPerLayer=8 noHiddenLayers=0 
+LOSS=0.727766 
+
+> noEpochs=150, bestEpochNumber=12 learningRate=0.000100, noNeuronsPerLayer=8 noHiddenLayers=0 
+LOSS=0.727766 
+
+> noEpochs=200, bestEpochNumber=12 learningRate=0.000100, noNeuronsPerLayer=8 noHiddenLayers=0 
+LOSS=0.727766 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=8 noHiddenLayers=1 
+LOSS=17.215569 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=8 noHiddenLayers=1 
+LOSS=17.215569 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=8 noHiddenLayers=1 
+LOSS=17.215569 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=8 noHiddenLayers=1 
+LOSS=17.215569 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.050000, noNeuronsPerLayer=8 noHiddenLayers=1 
+LOSS=16.370052 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.050000, noNeuronsPerLayer=8 noHiddenLayers=1 
+LOSS=16.370052 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.050000, noNeuronsPerLayer=8 noHiddenLayers=1 
+LOSS=16.370052 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.050000, noNeuronsPerLayer=8 noHiddenLayers=1 
+LOSS=16.370052 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.010000, noNeuronsPerLayer=8 noHiddenLayers=1 
+LOSS=12.291217 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.010000, noNeuronsPerLayer=8 noHiddenLayers=1 
+LOSS=12.291217 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.010000, noNeuronsPerLayer=8 noHiddenLayers=1 
+LOSS=12.291217 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.010000, noNeuronsPerLayer=8 noHiddenLayers=1 
+LOSS=12.291217 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.005000, noNeuronsPerLayer=8 noHiddenLayers=1 
+LOSS=9.286395 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.005000, noNeuronsPerLayer=8 noHiddenLayers=1 
+LOSS=9.286395 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.005000, noNeuronsPerLayer=8 noHiddenLayers=1 
+LOSS=9.286395 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.005000, noNeuronsPerLayer=8 noHiddenLayers=1 
+LOSS=9.286395 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.001000, noNeuronsPerLayer=8 noHiddenLayers=1 
+LOSS=1.714868 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.001000, noNeuronsPerLayer=8 noHiddenLayers=1 
+LOSS=1.714868 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.001000, noNeuronsPerLayer=8 noHiddenLayers=1 
+LOSS=1.714868 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.001000, noNeuronsPerLayer=8 noHiddenLayers=1 
+LOSS=1.714868 
+
+> noEpochs=50, bestEpochNumber=7 learningRate=0.000100, noNeuronsPerLayer=8 noHiddenLayers=1 
+LOSS=0.645654 
+
+> noEpochs=100, bestEpochNumber=7 learningRate=0.000100, noNeuronsPerLayer=8 noHiddenLayers=1 
+LOSS=0.645654 
+
+> noEpochs=150, bestEpochNumber=7 learningRate=0.000100, noNeuronsPerLayer=8 noHiddenLayers=1 
+LOSS=0.645654 
+
+> noEpochs=200, bestEpochNumber=7 learningRate=0.000100, noNeuronsPerLayer=8 noHiddenLayers=1 
+LOSS=0.645654 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=8 noHiddenLayers=2 
+LOSS=17.267383 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=8 noHiddenLayers=2 
+LOSS=17.267383 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=8 noHiddenLayers=2 
+LOSS=17.267383 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=8 noHiddenLayers=2 
+LOSS=17.267383 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.050000, noNeuronsPerLayer=8 noHiddenLayers=2 
+LOSS=16.398402 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.050000, noNeuronsPerLayer=8 noHiddenLayers=2 
+LOSS=16.398402 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.050000, noNeuronsPerLayer=8 noHiddenLayers=2 
+LOSS=16.398402 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.050000, noNeuronsPerLayer=8 noHiddenLayers=2 
+LOSS=16.398402 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.010000, noNeuronsPerLayer=8 noHiddenLayers=2 
+LOSS=12.341304 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.010000, noNeuronsPerLayer=8 noHiddenLayers=2 
+LOSS=12.341304 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.010000, noNeuronsPerLayer=8 noHiddenLayers=2 
+LOSS=12.341304 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.010000, noNeuronsPerLayer=8 noHiddenLayers=2 
+LOSS=12.341304 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.005000, noNeuronsPerLayer=8 noHiddenLayers=2 
+LOSS=9.514307 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.005000, noNeuronsPerLayer=8 noHiddenLayers=2 
+LOSS=9.514307 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.005000, noNeuronsPerLayer=8 noHiddenLayers=2 
+LOSS=9.514307 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.005000, noNeuronsPerLayer=8 noHiddenLayers=2 
+LOSS=9.514307 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.001000, noNeuronsPerLayer=8 noHiddenLayers=2 
+LOSS=1.868387 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.001000, noNeuronsPerLayer=8 noHiddenLayers=2 
+LOSS=1.868387 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.001000, noNeuronsPerLayer=8 noHiddenLayers=2 
+LOSS=1.868387 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.001000, noNeuronsPerLayer=8 noHiddenLayers=2 
+LOSS=1.868387 
+
+> noEpochs=50, bestEpochNumber=10 learningRate=0.000100, noNeuronsPerLayer=8 noHiddenLayers=2 
+LOSS=0.635426 
+
+> noEpochs=100, bestEpochNumber=10 learningRate=0.000100, noNeuronsPerLayer=8 noHiddenLayers=2 
+LOSS=0.635426 
+
+> noEpochs=150, bestEpochNumber=10 learningRate=0.000100, noNeuronsPerLayer=8 noHiddenLayers=2 
+LOSS=0.635426 
+
+> noEpochs=200, bestEpochNumber=10 learningRate=0.000100, noNeuronsPerLayer=8 noHiddenLayers=2 
+LOSS=0.635426 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=8 noHiddenLayers=3 
+LOSS=17.272741 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=8 noHiddenLayers=3 
+LOSS=17.272741 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=8 noHiddenLayers=3 
+LOSS=17.272741 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=8 noHiddenLayers=3 
+LOSS=17.272741 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.050000, noNeuronsPerLayer=8 noHiddenLayers=3 
+LOSS=16.373949 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.050000, noNeuronsPerLayer=8 noHiddenLayers=3 
+LOSS=16.373949 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.050000, noNeuronsPerLayer=8 noHiddenLayers=3 
+LOSS=16.373949 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.050000, noNeuronsPerLayer=8 noHiddenLayers=3 
+LOSS=16.373949 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.010000, noNeuronsPerLayer=8 noHiddenLayers=3 
+LOSS=12.329106 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.010000, noNeuronsPerLayer=8 noHiddenLayers=3 
+LOSS=12.329106 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.010000, noNeuronsPerLayer=8 noHiddenLayers=3 
+LOSS=12.329106 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.010000, noNeuronsPerLayer=8 noHiddenLayers=3 
+LOSS=12.329106 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.005000, noNeuronsPerLayer=8 noHiddenLayers=3 
+LOSS=9.423806 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.005000, noNeuronsPerLayer=8 noHiddenLayers=3 
+LOSS=9.423806 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.005000, noNeuronsPerLayer=8 noHiddenLayers=3 
+LOSS=9.423806 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.005000, noNeuronsPerLayer=8 noHiddenLayers=3 
+LOSS=9.423806 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.001000, noNeuronsPerLayer=8 noHiddenLayers=3 
+LOSS=1.774232 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.001000, noNeuronsPerLayer=8 noHiddenLayers=3 
+LOSS=1.774232 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.001000, noNeuronsPerLayer=8 noHiddenLayers=3 
+LOSS=1.774232 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.001000, noNeuronsPerLayer=8 noHiddenLayers=3 
+LOSS=1.774232 
+
+> noEpochs=50, bestEpochNumber=12 learningRate=0.000100, noNeuronsPerLayer=8 noHiddenLayers=3 
+LOSS=0.640453 
+
+> noEpochs=100, bestEpochNumber=12 learningRate=0.000100, noNeuronsPerLayer=8 noHiddenLayers=3 
+LOSS=0.640453 
+
+> noEpochs=150, bestEpochNumber=12 learningRate=0.000100, noNeuronsPerLayer=8 noHiddenLayers=3 
+LOSS=0.640453 
+
+> noEpochs=200, bestEpochNumber=12 learningRate=0.000100, noNeuronsPerLayer=8 noHiddenLayers=3 
+LOSS=0.640453 
+
+> noEpochs=50, bestEpochNumber=8 learningRate=0.100000, noNeuronsPerLayer=16 noHiddenLayers=0 
+LOSS=11.289725 
+
+> noEpochs=100, bestEpochNumber=8 learningRate=0.100000, noNeuronsPerLayer=16 noHiddenLayers=0 
+LOSS=11.289725 
+
+> noEpochs=150, bestEpochNumber=8 learningRate=0.100000, noNeuronsPerLayer=16 noHiddenLayers=0 
+LOSS=11.289725 
+
+> noEpochs=200, bestEpochNumber=8 learningRate=0.100000, noNeuronsPerLayer=16 noHiddenLayers=0 
+LOSS=11.289725 
+
+> noEpochs=50, bestEpochNumber=11 learningRate=0.050000, noNeuronsPerLayer=16 noHiddenLayers=0 
+LOSS=8.052735 
+
+> noEpochs=100, bestEpochNumber=11 learningRate=0.050000, noNeuronsPerLayer=16 noHiddenLayers=0 
+LOSS=8.052735 
+
+> noEpochs=150, bestEpochNumber=11 learningRate=0.050000, noNeuronsPerLayer=16 noHiddenLayers=0 
+LOSS=8.052735 
+
+> noEpochs=200, bestEpochNumber=11 learningRate=0.050000, noNeuronsPerLayer=16 noHiddenLayers=0 
+LOSS=8.052735 
+
+> noEpochs=50, bestEpochNumber=17 learningRate=0.010000, noNeuronsPerLayer=16 noHiddenLayers=0 
+LOSS=5.079295 
+
+> noEpochs=100, bestEpochNumber=17 learningRate=0.010000, noNeuronsPerLayer=16 noHiddenLayers=0 
+LOSS=5.079295 
+
+> noEpochs=150, bestEpochNumber=17 learningRate=0.010000, noNeuronsPerLayer=16 noHiddenLayers=0 
+LOSS=5.079295 
+
+> noEpochs=200, bestEpochNumber=17 learningRate=0.010000, noNeuronsPerLayer=16 noHiddenLayers=0 
+LOSS=5.079295 
+
+> noEpochs=50, bestEpochNumber=36 learningRate=0.005000, noNeuronsPerLayer=16 noHiddenLayers=0 
+LOSS=3.750092 
+
+> noEpochs=100, bestEpochNumber=36 learningRate=0.005000, noNeuronsPerLayer=16 noHiddenLayers=0 
+LOSS=3.750092 
+
+> noEpochs=150, bestEpochNumber=36 learningRate=0.005000, noNeuronsPerLayer=16 noHiddenLayers=0 
+LOSS=3.750092 
+
+> noEpochs=200, bestEpochNumber=36 learningRate=0.005000, noNeuronsPerLayer=16 noHiddenLayers=0 
+LOSS=3.750092 
+
+> noEpochs=50, bestEpochNumber=2 learningRate=0.001000, noNeuronsPerLayer=16 noHiddenLayers=0 
+LOSS=30.414553 
+
+> noEpochs=100, bestEpochNumber=2 learningRate=0.001000, noNeuronsPerLayer=16 noHiddenLayers=0 
+LOSS=30.414553 
+
+> noEpochs=150, bestEpochNumber=2 learningRate=0.001000, noNeuronsPerLayer=16 noHiddenLayers=0 
+LOSS=30.414553 
+
+> noEpochs=200, bestEpochNumber=2 learningRate=0.001000, noNeuronsPerLayer=16 noHiddenLayers=0 
+LOSS=30.414553 
+
+> noEpochs=50, bestEpochNumber=28 learningRate=0.000100, noNeuronsPerLayer=16 noHiddenLayers=0 
+LOSS=0.444183 
+
+> noEpochs=100, bestEpochNumber=28 learningRate=0.000100, noNeuronsPerLayer=16 noHiddenLayers=0 
+LOSS=0.444183 
+
+> noEpochs=150, bestEpochNumber=28 learningRate=0.000100, noNeuronsPerLayer=16 noHiddenLayers=0 
+LOSS=0.444183 
+
+> noEpochs=200, bestEpochNumber=28 learningRate=0.000100, noNeuronsPerLayer=16 noHiddenLayers=0 
+LOSS=0.444183 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=16 noHiddenLayers=1 
+LOSS=17.757451 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=16 noHiddenLayers=1 
+LOSS=17.757451 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=16 noHiddenLayers=1 
+LOSS=17.757451 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=16 noHiddenLayers=1 
+LOSS=17.757451 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.050000, noNeuronsPerLayer=16 noHiddenLayers=1 
+LOSS=17.145723 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.050000, noNeuronsPerLayer=16 noHiddenLayers=1 
+LOSS=17.145723 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.050000, noNeuronsPerLayer=16 noHiddenLayers=1 
+LOSS=17.145723 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.050000, noNeuronsPerLayer=16 noHiddenLayers=1 
+LOSS=17.145723 
+
+> noEpochs=50, bestEpochNumber=2 learningRate=0.010000, noNeuronsPerLayer=16 noHiddenLayers=1 
+LOSS=30.416399 
+
+> noEpochs=100, bestEpochNumber=2 learningRate=0.010000, noNeuronsPerLayer=16 noHiddenLayers=1 
+LOSS=30.416399 
+
+> noEpochs=150, bestEpochNumber=2 learningRate=0.010000, noNeuronsPerLayer=16 noHiddenLayers=1 
+LOSS=30.416399 
+
+> noEpochs=200, bestEpochNumber=2 learningRate=0.010000, noNeuronsPerLayer=16 noHiddenLayers=1 
+LOSS=30.416399 
+
+> noEpochs=50, bestEpochNumber=4 learningRate=0.005000, noNeuronsPerLayer=16 noHiddenLayers=1 
+LOSS=11.900476 
+
+> noEpochs=100, bestEpochNumber=4 learningRate=0.005000, noNeuronsPerLayer=16 noHiddenLayers=1 
+LOSS=11.900476 
+
+> noEpochs=150, bestEpochNumber=4 learningRate=0.005000, noNeuronsPerLayer=16 noHiddenLayers=1 
+LOSS=11.900476 
+
+> noEpochs=200, bestEpochNumber=4 learningRate=0.005000, noNeuronsPerLayer=16 noHiddenLayers=1 
+LOSS=11.900476 
+
+> noEpochs=50, bestEpochNumber=2 learningRate=0.001000, noNeuronsPerLayer=16 noHiddenLayers=1 
+LOSS=30.408119 
+
+> noEpochs=100, bestEpochNumber=2 learningRate=0.001000, noNeuronsPerLayer=16 noHiddenLayers=1 
+LOSS=30.408119 
+
+> noEpochs=150, bestEpochNumber=2 learningRate=0.001000, noNeuronsPerLayer=16 noHiddenLayers=1 
+LOSS=30.408119 
+
+> noEpochs=200, bestEpochNumber=2 learningRate=0.001000, noNeuronsPerLayer=16 noHiddenLayers=1 
+LOSS=30.408119 
+
+> noEpochs=50, bestEpochNumber=2 learningRate=0.000100, noNeuronsPerLayer=16 noHiddenLayers=1 
+LOSS=30.416676 
+
+> noEpochs=100, bestEpochNumber=2 learningRate=0.000100, noNeuronsPerLayer=16 noHiddenLayers=1 
+LOSS=30.416676 
+
+> noEpochs=150, bestEpochNumber=2 learningRate=0.000100, noNeuronsPerLayer=16 noHiddenLayers=1 
+LOSS=30.416676 
+
+> noEpochs=200, bestEpochNumber=2 learningRate=0.000100, noNeuronsPerLayer=16 noHiddenLayers=1 
+LOSS=30.416676 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=16 noHiddenLayers=2 
+LOSS=17.758164 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=16 noHiddenLayers=2 
+LOSS=17.758164 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=16 noHiddenLayers=2 
+LOSS=17.758164 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=16 noHiddenLayers=2 
+LOSS=17.758164 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.050000, noNeuronsPerLayer=16 noHiddenLayers=2 
+LOSS=17.147143 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.050000, noNeuronsPerLayer=16 noHiddenLayers=2 
+LOSS=17.147143 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.050000, noNeuronsPerLayer=16 noHiddenLayers=2 
+LOSS=17.147143 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.050000, noNeuronsPerLayer=16 noHiddenLayers=2 
+LOSS=17.147143 
+
+> noEpochs=50, bestEpochNumber=2 learningRate=0.010000, noNeuronsPerLayer=16 noHiddenLayers=2 
+LOSS=30.421174 
+
+> noEpochs=100, bestEpochNumber=2 learningRate=0.010000, noNeuronsPerLayer=16 noHiddenLayers=2 
+LOSS=30.421174 
+
+> noEpochs=150, bestEpochNumber=2 learningRate=0.010000, noNeuronsPerLayer=16 noHiddenLayers=2 
+LOSS=30.421174 
+
+> noEpochs=200, bestEpochNumber=2 learningRate=0.010000, noNeuronsPerLayer=16 noHiddenLayers=2 
+LOSS=30.421174 
+
+> noEpochs=50, bestEpochNumber=5 learningRate=0.005000, noNeuronsPerLayer=16 noHiddenLayers=2 
+LOSS=11.906566 
+
+> noEpochs=100, bestEpochNumber=5 learningRate=0.005000, noNeuronsPerLayer=16 noHiddenLayers=2 
+LOSS=11.906566 
+
+> noEpochs=150, bestEpochNumber=5 learningRate=0.005000, noNeuronsPerLayer=16 noHiddenLayers=2 
+LOSS=11.906566 
+
+> noEpochs=200, bestEpochNumber=5 learningRate=0.005000, noNeuronsPerLayer=16 noHiddenLayers=2 
+LOSS=11.906566 
+
+> noEpochs=50, bestEpochNumber=9 learningRate=0.001000, noNeuronsPerLayer=16 noHiddenLayers=2 
+LOSS=4.327965 
+
+> noEpochs=100, bestEpochNumber=9 learningRate=0.001000, noNeuronsPerLayer=16 noHiddenLayers=2 
+LOSS=4.327965 
+
+> noEpochs=150, bestEpochNumber=9 learningRate=0.001000, noNeuronsPerLayer=16 noHiddenLayers=2 
+LOSS=4.327965 
+
+> noEpochs=200, bestEpochNumber=9 learningRate=0.001000, noNeuronsPerLayer=16 noHiddenLayers=2 
+LOSS=4.327965 
+
+> noEpochs=50, bestEpochNumber=2 learningRate=0.000100, noNeuronsPerLayer=16 noHiddenLayers=2 
+LOSS=30.408172 
+
+> noEpochs=100, bestEpochNumber=2 learningRate=0.000100, noNeuronsPerLayer=16 noHiddenLayers=2 
+LOSS=30.408172 
+
+> noEpochs=150, bestEpochNumber=2 learningRate=0.000100, noNeuronsPerLayer=16 noHiddenLayers=2 
+LOSS=30.408172 
+
+> noEpochs=200, bestEpochNumber=2 learningRate=0.000100, noNeuronsPerLayer=16 noHiddenLayers=2 
+LOSS=30.408172 
+
+> noEpochs=50, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=16 noHiddenLayers=3 
+LOSS=17.758344 
+
+> noEpochs=100, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=16 noHiddenLayers=3 
+LOSS=17.758344 
+
+> noEpochs=150, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=16 noHiddenLayers=3 
+LOSS=17.758344 
+
+> noEpochs=200, bestEpochNumber=3 learningRate=0.100000, noNeuronsPerLayer=16 noHiddenLayers=3 
+LOSS=17.758344 
+
+> noEpochs=50, bestEpochNumber=4 learningRate=0.050000, noNeuronsPerLayer=16 noHiddenLayers=3 
+LOSS=17.146921 
+
+> noEpochs=100, bestEpochNumber=4 learningRate=0.050000, noNeuronsPerLayer=16 noHiddenLayers=3 
+LOSS=17.146921 
+
+> noEpochs=150, bestEpochNumber=4 learningRate=0.050000, noNeuronsPerLayer=16 noHiddenLayers=3 
+LOSS=17.146921 
+
+> noEpochs=200, bestEpochNumber=4 learningRate=0.050000, noNeuronsPerLayer=16 noHiddenLayers=3 
+LOSS=17.146921 
+
+> noEpochs=50, bestEpochNumber=2 learningRate=0.010000, noNeuronsPerLayer=16 noHiddenLayers=3 
+LOSS=30.402006 
+
+> noEpochs=100, bestEpochNumber=2 learningRate=0.010000, noNeuronsPerLayer=16 noHiddenLayers=3 
+LOSS=30.402006 
+
+> noEpochs=150, bestEpochNumber=2 learningRate=0.010000, noNeuronsPerLayer=16 noHiddenLayers=3 
+LOSS=30.402006 
+
+> noEpochs=200, bestEpochNumber=2 learningRate=0.010000, noNeuronsPerLayer=16 noHiddenLayers=3 
+LOSS=30.402006 
+
+> noEpochs=50, bestEpochNumber=2 learningRate=0.005000, noNeuronsPerLayer=16 noHiddenLayers=3 
+LOSS=30.408305 
+
+> noEpochs=100, bestEpochNumber=2 learningRate=0.005000, noNeuronsPerLayer=16 noHiddenLayers=3 
+LOSS=30.408305 
+
+> noEpochs=150, bestEpochNumber=2 learningRate=0.005000, noNeuronsPerLayer=16 noHiddenLayers=3 
+LOSS=30.408305 
+
+> noEpochs=200, bestEpochNumber=2 learningRate=0.005000, noNeuronsPerLayer=16 noHiddenLayers=3 
+LOSS=30.408305 
+
+> noEpochs=50, bestEpochNumber=8 learningRate=0.001000, noNeuronsPerLayer=16 noHiddenLayers=3 
+LOSS=4.326702 
+
+> noEpochs=100, bestEpochNumber=8 learningRate=0.001000, noNeuronsPerLayer=16 noHiddenLayers=3 
+LOSS=4.326702 
+
+> noEpochs=150, bestEpochNumber=8 learningRate=0.001000, noNeuronsPerLayer=16 noHiddenLayers=3 
+LOSS=4.326702 
+
+> noEpochs=200, bestEpochNumber=8 learningRate=0.001000, noNeuronsPerLayer=16 noHiddenLayers=3 
+LOSS=4.326702 
+
+> noEpochs=50, bestEpochNumber=2 learningRate=0.000100, noNeuronsPerLayer=16 noHiddenLayers=3 
+LOSS=30.396152 
+
+> noEpochs=100, bestEpochNumber=2 learningRate=0.000100, noNeuronsPerLayer=16 noHiddenLayers=3 
+LOSS=30.396152 
+
+> noEpochs=150, bestEpochNumber=2 learningRate=0.000100, noNeuronsPerLayer=16 noHiddenLayers=3 
+LOSS=30.396152 
+
+> noEpochs=200, bestEpochNumber=2 learningRate=0.000100, noNeuronsPerLayer=16 noHiddenLayers=3 
+LOSS=30.396152 
+
